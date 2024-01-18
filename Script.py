@@ -8,16 +8,16 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/TheBlackXYZ>Itz_rohan_24</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/TheBlackXYZBotz>@Itz_rohan_24</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/TheBlackxyz/PROFESSOR-BOT>🇹 🇭 🇪 🇧 🇱 🇦 🇨 🇰 🇽 🇾 🇿 🇧 🇴 🇹 </a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=𝚂𝚘𝚛𝚛𝚢 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 𝙸𝚜 𝙿𝚛𝚒𝚟𝚊𝚝𝚎 𝙳𝚘 𝙽𝚘𝚝 𝚄𝚜𝚎 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎. 𝙸𝚏 𝚈𝚘𝚞 𝚠𝚊𝚗𝚝 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 𝚈𝚘𝚞 𝚆𝚒𝚕𝚕 𝙳𝙼 𝙾𝚆𝙽𝙴𝚁 🤠🤠🤠🤠>🇹 🇭 🇪 🇧 🇱 🇦 🇨 🇰 🇽 🇾 🇿 🇧 🇴 🇹 </a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/TheBlackXYZ>Itz_rohan_24</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/TheBlackXYZBotz>@Itz_rohan_24</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -29,7 +29,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 
 <b>⪼ EG:</b>
 </code>/batch https://t.me/TheBlackXYZ/1 
-https://t.me/TheBlackXYZ/10</code>"""
+https://t.me/TheBlackXYZBotz/10</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
