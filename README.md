@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭 +;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
+<p align="center">
+  <img src="https://graph.org/file/6ef5c174213ec97e5e328.jpg" alt="TheBlackXYZBOT Logo">
+</p>
 
 <h1 align="center">
   <b>  🇹 🇭 🇪 🇧 🇱 🇦 🇨 🇰 🇽 🇾 🇿   </b>
@@ -29,7 +32,7 @@
 - [x] Spelling Check Feature
 - [x] Custom File Caption
 - [x] Group Broadcast 
-- [x] AutoFilter Auto Delete
+- [x] AutoFilter Auto Delete PH
 - [x] Junk Group & Users Clearing On Database
 - [x] Global Filter
 - [x] Url Shortner In Autofilter
